@@ -1,4 +1,4 @@
-## # Evaluating Point of Interest (POI) Data from Different Sources to Support Geographic Data-Based Decision Making
+## Evaluating Point of Interest (POI) Data from Different Sources to Support Geographic Data-Based Decision Making
 
 **Supervisor:** Sándor Juhász
 
